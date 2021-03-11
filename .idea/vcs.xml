@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ChapterThreeExercise/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChapterTwoExercise/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Chapter4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Chapter5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Chapter6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ChapterThreeExercise/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ChapterTwoExercise/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/CreditCardNumberValidation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Credit_Card_Number_Validation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/com/semicolon/tdd" vcs="Git" />
+  </component>
+</project>
